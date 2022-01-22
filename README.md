@@ -1,0 +1,2 @@
+# SpringCloudConfig
+SpringCloud Config为微服务架构中的微服务提供集中化的外部配置支持，为各个不同的微服务应用环境提供一个中性化的外部配置。
